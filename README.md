@@ -14,9 +14,9 @@ Building Mobile Applications with React Native and REST APIs with Node.js 📱
 <!--ts-->
   * Using TDD in my applications
   * Understanding and using patterns such as: SOLID, DRY, KISS and YAGNI
-  * Understand [React Native](reactnative.dev) development in more detail to improve my skills
-  * Understand [Node.js](nodejs.org/en/) development in more detail to improve my skills
-  * Working with [Docker](docker.com) Containers
+  * Understand [React Native](https://reactnative.dev/) development in more detail to improve my skills
+  * Understand [Node.js](https://nodejs.org/en/) development in more detail to improve my skills
+  * Working with [Docker](https://www.docker.com/) Containers
 <!--te-->
 
 ## Wanna chat? 📬
@@ -28,5 +28,5 @@ Building Mobile Applications with React Native and REST APIs with Node.js 📱
 ## Find me elsewhere 🌎
 
 <!--ts-->
-  * [LinkedIn](linkedin.com/in/joaohiago/) 💼
+  * [LinkedIn](https://www.linkedin.com/in/joaohiago/) 💼
 <!--te-->
