@@ -13,7 +13,7 @@ Building Mobile Applications with React Native and REST APIs with Node.js 📱
 
 <!--ts-->
   * Using TDD in my applications
-  * Using DDD in my applications
+  * Learn about DDD
   * Understanding and using patterns such as: SOLID, DRY, KISS and YAGNI
   * Understand [React Native](https://reactnative.dev/) development in more detail to improve my skills
   * Understand [Node.js](https://nodejs.org/en/) development in more detail to improve my skills
