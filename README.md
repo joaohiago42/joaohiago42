@@ -14,7 +14,8 @@ Working with [.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcor
 <!--ts-->
   * Apply Clean Architecture and Clean Code
   * Apply testing techniques to my applications
-  * Improve my skills as a front end developer
+  * Improve basic Front-End knowledge
+  * Improve basic Docker knowledge
 <!--te-->
 
 ## Wanna chat? 📬
