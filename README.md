@@ -12,9 +12,7 @@ Working with [.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcor
 ## Goals for 2021 🔭
 
 <!--ts-->
-  * Apply Clean Architecture and Clean Code
-  * Apply testing techniques to my applications
-  * Improve basic Front-End knowledge
+  ![image](https://user-images.githubusercontent.com/47699280/139561837-64870c2e-68ee-4f81-9aed-cd46084e09cb.png)
 <!--te-->
 
 ## Wanna chat? 📬
