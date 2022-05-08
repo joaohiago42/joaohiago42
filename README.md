@@ -12,7 +12,7 @@ Working with [.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcor
 ## Goals for 2021 🔭
 
 <!--ts-->
-  ![image](https://user-images.githubusercontent.com/47699280/139561837-64870c2e-68ee-4f81-9aed-cd46084e09cb.png)
+  ![image](https://user-images.githubusercontent.com/6892666/65896069-834eb700-e37a-11e9-95be-7ae2300d5d50.png)
 <!--te-->
 
 ## Wanna chat? 📬
