@@ -1,7 +1,7 @@
 ### Olá, sou João Hiago 💻☕
  
 ## Quem sou eu? 🎤
-Sou um Desenvolvedor Back-End com sólida experiência e um grande interesse em expandir minhas habilidades no desenvolvimento Front-End e Mobile 🚀
+Sou um Desenvolvedor Back-End com sólida experiência, mas também me aventuro no desenvolvimento Front-End e Mobile 🚀
 
 Com um espírito de aprendizado constante, sou movido pela paixão por novos desafios e pela evolução contínua 🔥
 
